@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+deadmemory.so
+deadmemory.dylib
+deadmemory.dll
+deadmemory.a
+deadmemory.lib
+deadmemory-test-*
+*.exe
+*.o
+*.obj
+*.lst
+main
+application
+.gdb_history
